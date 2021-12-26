@@ -1,4 +1,6 @@
 ---
+#Set any of the "active" in the widgets to "true" to make them appear.
+
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
